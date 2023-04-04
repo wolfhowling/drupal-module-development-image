@@ -5,5 +5,5 @@ Uses sqlite
 /var/www/html/drupal/
 
 ###### Login information
-username: admin
-password: AdminOpen
+- username: admin
+- password: AdminOpen
